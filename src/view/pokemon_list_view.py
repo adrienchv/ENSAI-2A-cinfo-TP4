@@ -3,6 +3,7 @@ from InquirerPy.separator import Separator
 
 from view.abstract_view import AbstractView
 from view.session import Session
+from view.pokemon_details_view import PokemonDetailsView
 
 from services.pokemon_service import PokemonService
 from services.battle_service import BattleService
